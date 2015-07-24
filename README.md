@@ -6,4 +6,4 @@ This is an example README.md file. Most GitHub projects will have one, *but it i
 
 ###### What To Put in a ReadMe
 
-Whatever you want. You'll see a lot of projects include: project descriptions, instalation instructions, liscening stuff, etc.
+Whatever you want. You'll see a lot of projects include: project descriptions, installation instructions, licensing stuff, etc.
